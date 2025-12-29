@@ -14,9 +14,11 @@
 
     <label for="security Question"><b>Enter your Security Question</b></label>
     <input type="text" placeholder="Enter your Security Question" name="security Question" id="security Question" required>
+     <br>
 
-    <label for="securityAnswer"><b>"Enter security answer</b></label>
+    <label for="securityAnswer"><b>Enter security answer</b></label>
     <input type="text" placeholder="Enter Security Answer" name="security Answer" id="security Answer" required>
+     <br>
 
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
